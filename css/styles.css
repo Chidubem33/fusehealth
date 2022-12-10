@@ -1,0 +1,18 @@
+.lol {
+    background-color: #F2F2F2;
+    outline: none !important;
+}
+
+.sign-up {
+    padding-top: 8rem;
+}
+
+@media (max-width:767px) {
+    .sign-up {
+        padding-bottom: 10rem;
+    }
+}
+
+.meatz{
+    box-shadow: 1px 2px 37px 1px #8f8f8f;
+}
