@@ -13,30 +13,38 @@
     }
 }
 
-.meatz{
+.meatz {
     box-shadow: 1px 2px 37px 1px #8f8f8f;
 }
 
-.sopa img{
+.sopa img {
     border-radius: 50%;
     height: 30vh;
     width: 35%;
 }
 
-.shank{
+.shank {
     border-left: 1px solid #D8D5D5;
 }
 
-.hope{
+.hope {
     background-color: #CEE1FF9E !important;
 }
 
-.fa-star{
+.fa-star {
     position: relative;
     right: 3%;
 }
 
-.fa-moon{
+.fa-moon {
     position: relative;
     left: 170%;
+}
+
+.need {
+    background-image: url(../images/hey.png);
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
